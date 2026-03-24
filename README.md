@@ -74,3 +74,5 @@ The model successfully detects fraudulent transactions by addressing class imbal
 
 ## 👤 Author
 Nivedhitha K
+📍 Coimbatore, India  
+📧 nivedhitha.nivi15@gmail.com
