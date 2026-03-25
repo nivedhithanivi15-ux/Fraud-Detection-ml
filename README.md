@@ -59,6 +59,13 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 
 ---
 
+=======
+## 🔧 Improvements
+- Applied StandardScaler for better model convergence
+- Increased max_iter for improved performance
+
+---
+
 ## 🔍 Key Insights
 - Dataset is highly imbalanced  
 - SMOTE helps balance training data  
@@ -74,3 +81,5 @@ The model successfully detects fraudulent transactions by addressing class imbal
 
 ## 👤 Author
 Nivedhitha K
+📍 Coimbatore, India  
+📧 nivedhitha.nivi15@gmail.com
