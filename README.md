@@ -59,7 +59,6 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 
 ---
 
-=======
 ## 🔧 Improvements
 - Applied StandardScaler for better model convergence
 - Increased max_iter for improved performance
@@ -71,6 +70,15 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 - SMOTE helps balance training data  
 - Recall is critical to reduce missed fraud cases  
 - Logistic Regression performs effectively  
+
+---
+
+## 📸 Project Output
+
+<img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/654186a7-abae-4e96-9939-f7e63599f973" />
+
+
+<img width="556" height="455" alt="image" src="https://github.com/user-attachments/assets/4e66eb8e-348c-4cc7-90f8-b446b3dd85f3" />
 
 ---
 
